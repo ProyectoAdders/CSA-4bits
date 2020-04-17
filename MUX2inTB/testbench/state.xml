@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Fri Apr 17 17:07:36 2020-->
+<file-format name="stateData" version="1.0">
+ <attribute value="" name="description" type="giString"/>
+ <attribute value="mylibrary/MUX2inTB/schematic" name="design" type="dmCellView"/>
+ <attribute value="1" name="enabled" type="giBoolean"/>
+ <attribute value="default" name="name" type="giString"/>
+ <attribute value="//" name="openaccessState" type="dmCellView"/>
+ <attribute value="HSPICE" name="simulator" type="giString"/>
+ <comment></comment>
+ <resultsDir>~/simulation</resultsDir>
+ <integration version="1"/>
+</file-format>
