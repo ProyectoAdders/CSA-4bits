@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Fri Apr 17 18:37:45 2020-->
+<file-format version="1.0" name="stateData">
+ <attribute value="" type="giString" name="description"/>
+ <attribute value="mylibrary/AND4inTB/schematic" type="dmCellView" name="design"/>
+ <attribute value="1" type="giBoolean" name="enabled"/>
+ <attribute value="AND4intest" type="giString" name="name"/>
+ <attribute value="mylibrary/AND4inTB/AND4intest" type="dmCellView" name="openaccessState"/>
+ <attribute value="HSPICE" type="giString" name="simulator"/>
+ <comment></comment>
+ <resultsDir>~/simulation</resultsDir>
+ <integration version="1"/>
+</file-format>
