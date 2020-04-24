@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- created by Custom Compiler build#  ,on -->
+<file-format name="synopsysPrefs" version="1.0">
+        <preferences>
+                <pref value="Symbol Editor" name="dbGenerateCellViewEditor"/>
+                <pref value="" name="leAbstractGenOptionSetDefault"/>
+                <pref value="background_netlisting sae_shell_netlist" name="xtNetlistingPrefixes"/>
+                <pref value="SAED 32/28nm" name="xtPDKProcess"/>
+                <pref value="1P10M" name="xtPDKVariant"/>
+                <pref value="2" name="xtSAEShellJobLimit"/>
+                <pref value="sae_shell_results_viewer" name="xtSAEShellPrefixes"/>
+                <pref value="HSIM HSPICE Nanosim Spectre VHDL Verilog XA FineSimPro FineSimProSpectre FineSimProVCS HSIMHSPICE XAEldo XAHSPICE XASpectre XAVCSHSPICE" name="xtSimulationPrefixes"/>
+        </preferences>
+</file-format>

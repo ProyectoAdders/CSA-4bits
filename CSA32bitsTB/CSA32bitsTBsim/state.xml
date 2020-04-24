@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Fri Apr 24 11:21:34 2020-->
+<file-format version="1.0" name="stateData">
+ <attribute type="giString" name="description" value=""/>
+ <attribute type="dmCellView" name="design" value="mylibrary/CSA32bitsTB/schematic"/>
+ <attribute type="giBoolean" name="enabled" value="1"/>
+ <attribute type="giString" name="name" value="default"/>
+ <attribute type="dmCellView" name="openaccessState" value="//"/>
+ <attribute type="giString" name="simulator" value="HSPICE"/>
+ <comment></comment>
+ <resultsDir>~/simulation</resultsDir>
+ <integration version="1"/>
+</file-format>

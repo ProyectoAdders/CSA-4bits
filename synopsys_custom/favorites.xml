@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!-- created by Custom Compiler (TM), build #, on Fri Apr 17 17:50:28 2020
+-->
+<synopsysFile name="synopsysFavoriteDevices" version="1.0">
+        <favoriteDevices viewType="maskLayout"/>
+        <favoriteDevices viewType="schematic">
+                <cellView view="symbol" library="mylibrary" cell="AND4IN">
+                        <alias name="AND4IN"/>
+                        <category name="Recently Placed"/>
+                </cellView>
+                <cellView view="symbol" library="analogLib" cell="vpulse">
+                        <alias name="vpulse"/>
+                        <category name="Recently Placed"/>
+                </cellView>
+                <cellView view="symbol" library="analogLib" cell="vdc">
+                        <alias name="vdc"/>
+                        <category name="Recently Placed"/>
+                </cellView>
+                <cellView view="symbol" library="analogLib" cell="gnd">
+                        <alias name="gnd"/>
+                        <category name="Recently Placed"/>
+                </cellView>
+        </favoriteDevices>
+</synopsysFile>

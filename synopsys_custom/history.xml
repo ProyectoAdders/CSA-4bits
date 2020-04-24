@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!-- created by Custom Compiler (TM), build #, on Fri Apr 17 17:50:25 2020
+-->
+<synopsysFile name="synopsysRecentFiles" version="1.1">
+        <recentFiles>
+                <file file="schematic" view="schematic" mode="write" library="mylibrary" cell="NAND3INtb"/>
+                <file file="schematic" view="schematic" mode="write" library="mylibrary" cell="AND4inTB"/>
+                <file file="schematicSymbol" view="symbol" mode="write" library="mylibrary" cell="AND4IN"/>
+                <file file="schematic" view="schematic" mode="write" library="mylibrary" cell="AND4IN"/>
+                <file file="schematic" view="schematic" mode="write" library="mylibrary" cell="NAND3in"/>
+        </recentFiles>
+</synopsysFile>

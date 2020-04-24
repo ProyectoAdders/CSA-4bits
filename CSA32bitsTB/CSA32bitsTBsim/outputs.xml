@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Fri Apr 24 11:21:34 2020-->
+<file-format version="1.0" name="stateCategory">
+ <object version="1" type="saOutputs" name="outputs">
+  <collection name="customPlotModes">
+   <object type="wfCustomPlotMode" name="customPlotModes">
+    <attribute type="giString" name="config" value="### Custom WaveView session file (version P-2019.06 build May 30, ) ###&#xa;### saved at 11:20:46 on Fri Apr 24 2020 ###&#xa;wdf 0 &quot;/home/dpazmino/simulation/mylibrary,CSA32bitsTB,schematic/history_1/simulation/default/HSPICE/nominal/results/resultsMap.xml&quot; load=used &quot;title=tran:tran&quot; &quot;atype=tran:tran&quot; &#xa;scalar list&#xa;waveview_begin 1  stack  offset=0 name_b=81 mntr_b=81 name_width=66 &quot;name=tran&quot; &quot;userinfo=saeSession0::tran&quot; showtitle=true &quot;wvtitle=tran&quot; &#xa;  panel_begin linear pidx=0 nvpos=1121 spath=name+file xgrid=off xlabel=&quot;TIME(sec)&quot; ylabel=&quot;V&quot; &#xa;    line src=wdf lidx=0 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;0>)&quot; attr=0:0:1:0 alias=&quot;v(/A&lt;0>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=1 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;1>)&quot; attr=1:1:1:0 alias=&quot;v(/A&lt;1>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=2 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;2>)&quot; attr=2:2:1:0 alias=&quot;v(/A&lt;2>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=3 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;3>)&quot; attr=3:3:1:0 alias=&quot;v(/A&lt;3>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=4 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;4>)&quot; attr=4:4:1:0 alias=&quot;v(/A&lt;4>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=5 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;5>)&quot; attr=5:5:1:0 alias=&quot;v(/A&lt;5>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=6 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;6>)&quot; attr=6:6:1:0 alias=&quot;v(/A&lt;6>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=7 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;7>)&quot; attr=7:7:1:0 alias=&quot;v(/A&lt;7>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=8 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;8>)&quot; attr=0:0:1:0 alias=&quot;v(/A&lt;8>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=9 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;9>)&quot; attr=1:0:1:0 alias=&quot;v(/A&lt;9>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=10 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;10>)&quot; attr=2:1:1:0 alias=&quot;v(/A&lt;10>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=11 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;11>)&quot; attr=3:2:1:0 alias=&quot;v(/A&lt;11>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=12 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;12>)&quot; attr=4:3:1:0 alias=&quot;v(/A&lt;12>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=13 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;13>)&quot; attr=5:4:1:0 alias=&quot;v(/A&lt;13>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=14 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;14>)&quot; attr=6:5:1:0 alias=&quot;v(/A&lt;14>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=15 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;15>)&quot; attr=7:6:1:0 alias=&quot;v(/A&lt;15>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=16 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;16>)&quot; attr=0:7:1:0 alias=&quot;v(/A&lt;16>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=17 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;17>)&quot; attr=1:0:1:0 alias=&quot;v(/A&lt;17>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=18 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;18>)&quot; attr=2:0:1:0 alias=&quot;v(/A&lt;18>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=19 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;19>)&quot; attr=3:1:1:0 alias=&quot;v(/A&lt;19>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=20 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;20>)&quot; attr=4:2:1:0 alias=&quot;v(/A&lt;20>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=21 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;21>)&quot; attr=5:3:1:0 alias=&quot;v(/A&lt;21>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=22 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;22>)&quot; attr=6:4:1:0 alias=&quot;v(/A&lt;22>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=23 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;23>)&quot; attr=7:5:1:0 alias=&quot;v(/A&lt;23>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=24 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;24>)&quot; attr=0:6:1:0 alias=&quot;v(/A&lt;24>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=25 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;25>)&quot; attr=1:7:1:0 alias=&quot;v(/A&lt;25>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=26 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;26>)&quot; attr=2:0:1:0 alias=&quot;v(/A&lt;26>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=27 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;27>)&quot; attr=3:0:1:0 alias=&quot;v(/A&lt;27>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=28 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;28>)&quot; attr=4:1:1:0 alias=&quot;v(/A&lt;28>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=29 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;29>)&quot; attr=5:2:1:0 alias=&quot;v(/A&lt;29>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=30 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;30>)&quot; attr=6:3:1:0 alias=&quot;v(/A&lt;30>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=31 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(a&lt;31>)&quot; attr=7:4:1:0 alias=&quot;v(/A&lt;31>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=32 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;0>)&quot; attr=0:5:1:0 alias=&quot;v(/B&lt;0>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=33 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;1>)&quot; attr=1:6:1:0 alias=&quot;v(/B&lt;1>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=34 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;2>)&quot; attr=2:7:1:0 alias=&quot;v(/B&lt;2>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=35 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;3>)&quot; attr=3:0:1:0 alias=&quot;v(/B&lt;3>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=36 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;4>)&quot; attr=4:0:1:0 alias=&quot;v(/B&lt;4>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=37 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;5>)&quot; attr=5:1:1:0 alias=&quot;v(/B&lt;5>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=38 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;6>)&quot; attr=6:2:1:0 alias=&quot;v(/B&lt;6>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=39 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;7>)&quot; attr=7:3:1:0 alias=&quot;v(/B&lt;7>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=40 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;8>)&quot; attr=0:4:1:0 alias=&quot;v(/B&lt;8>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=41 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;9>)&quot; attr=1:5:1:0 alias=&quot;v(/B&lt;9>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=42 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;10>)&quot; attr=2:6:1:0 alias=&quot;v(/B&lt;10>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=43 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;11>)&quot; attr=3:7:1:0 alias=&quot;v(/B&lt;11>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=44 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;12>)&quot; attr=4:0:1:0 alias=&quot;v(/B&lt;12>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=45 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;13>)&quot; attr=5:0:1:0 alias=&quot;v(/B&lt;13>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=46 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;14>)&quot; attr=6:1:1:0 alias=&quot;v(/B&lt;14>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=47 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;15>)&quot; attr=7:2:1:0 alias=&quot;v(/B&lt;15>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=48 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;16>)&quot; attr=0:3:1:0 alias=&quot;v(/B&lt;16>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=49 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;17>)&quot; attr=1:4:1:0 alias=&quot;v(/B&lt;17>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=50 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;18>)&quot; attr=2:5:1:0 alias=&quot;v(/B&lt;18>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=51 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;19>)&quot; attr=3:6:1:0 alias=&quot;v(/B&lt;19>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=52 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;20>)&quot; attr=4:7:1:0 alias=&quot;v(/B&lt;20>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=53 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;21>)&quot; attr=5:0:1:0 alias=&quot;v(/B&lt;21>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=54 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;22>)&quot; attr=6:0:1:0 alias=&quot;v(/B&lt;22>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=55 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;23>)&quot; attr=7:1:1:0 alias=&quot;v(/B&lt;23>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=56 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;24>)&quot; attr=0:2:1:0 alias=&quot;v(/B&lt;24>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=57 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;25>)&quot; attr=1:3:1:0 alias=&quot;v(/B&lt;25>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=58 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;26>)&quot; attr=2:4:1:0 alias=&quot;v(/B&lt;26>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=59 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;27>)&quot; attr=3:5:1:0 alias=&quot;v(/B&lt;27>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=60 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;28>)&quot; attr=4:6:1:0 alias=&quot;v(/B&lt;28>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=61 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;29>)&quot; attr=5:7:1:0 alias=&quot;v(/B&lt;29>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=62 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;30>)&quot; attr=6:0:1:0 alias=&quot;v(/B&lt;30>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=63 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(b&lt;31>)&quot; attr=7:0:1:0 alias=&quot;v(/B&lt;31>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=64 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(net12)&quot; attr=0:1:1:0 alias=&quot;Cin&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=65 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;0>)&quot; attr=2:3:1:0 alias=&quot;v(/S&lt;0>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=66 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;1>)&quot; attr=3:4:1:0 alias=&quot;v(/S&lt;1>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=67 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;2>)&quot; attr=4:5:1:0 alias=&quot;v(/S&lt;2>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=68 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;3>)&quot; attr=5:6:1:0 alias=&quot;v(/S&lt;3>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=69 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;4>)&quot; attr=6:7:1:0 alias=&quot;v(/S&lt;4>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=70 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;5>)&quot; attr=7:0:1:0 alias=&quot;v(/S&lt;5>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=71 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;6>)&quot; attr=0:0:1:0 alias=&quot;v(/S&lt;6>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=72 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;7>)&quot; attr=1:1:1:0 alias=&quot;v(/S&lt;7>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=73 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;8>)&quot; attr=2:2:1:0 alias=&quot;v(/S&lt;8>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=74 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;9>)&quot; attr=3:3:1:0 alias=&quot;v(/S&lt;9>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=75 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;10>)&quot; attr=4:4:1:0 alias=&quot;v(/S&lt;10>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=76 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;11>)&quot; attr=5:5:1:0 alias=&quot;v(/S&lt;11>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=77 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;12>)&quot; attr=6:6:1:0 alias=&quot;v(/S&lt;12>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=78 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;13>)&quot; attr=7:7:1:0 alias=&quot;v(/S&lt;13>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=79 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;14>)&quot; attr=0:0:1:0 alias=&quot;v(/S&lt;14>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=80 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;15>)&quot; attr=1:0:1:0 alias=&quot;v(/S&lt;15>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=81 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;16>)&quot; attr=2:1:1:0 alias=&quot;v(/S&lt;16>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=82 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;17>)&quot; attr=3:2:1:0 alias=&quot;v(/S&lt;17>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=83 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;18>)&quot; attr=4:3:1:0 alias=&quot;v(/S&lt;18>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=84 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;19>)&quot; attr=5:4:1:0 alias=&quot;v(/S&lt;19>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=85 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;20>)&quot; attr=6:5:1:0 alias=&quot;v(/S&lt;20>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=86 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;21>)&quot; attr=7:6:1:0 alias=&quot;v(/S&lt;21>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=87 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;22>)&quot; attr=0:7:1:0 alias=&quot;v(/S&lt;22>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=88 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;23>)&quot; attr=1:0:1:0 alias=&quot;v(/S&lt;23>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=89 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;24>)&quot; attr=2:0:1:0 alias=&quot;v(/S&lt;24>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=90 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;25>)&quot; attr=3:1:1:0 alias=&quot;v(/S&lt;25>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=91 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;26>)&quot; attr=4:2:1:0 alias=&quot;v(/S&lt;26>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=92 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;27>)&quot; attr=5:3:1:0 alias=&quot;v(/S&lt;27>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=93 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;28>)&quot; attr=6:4:1:0 alias=&quot;v(/S&lt;28>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=94 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;29>)&quot; attr=7:5:1:0 alias=&quot;v(/S&lt;29>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=95 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;30>)&quot; attr=0:6:1:0 alias=&quot;v(/S&lt;30>)&quot; disp=show saeoutput=1 &#xa;    line src=wdf lidx=96 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(s&lt;31>)&quot; attr=1:7:1:0 alias=&quot;v(/S&lt;31>)&quot; disp=show saeoutput=1 &#xa;  panel_end&#xa;  panel_begin linear pidx=1 spath=name+file xgrid=off xlabel=&quot;TIME(sec)&quot; ylabel=&quot;V&quot; &#xa;    line src=wdf lidx=0 fidx=0 &quot;delim=.&quot; sigtype=1 &quot;name=v(cout)&quot; attr=1:2:1:0 alias=&quot;Cout&quot; disp=show saeoutput=1 &#xa;  panel_end&#xa;waveview_end&#xa;browserClosed&#xa;"/>
+    <attribute type="giString" name="name" value="last"/>
+   </object>
+  </collection>
+  <attribute type="giBoolean" name="importMeasures" value="1"/>
+  <attribute type="giString" name="outputSet" value="default"/>
+  <collection name="outputSets">
+   <object version="1" type="saOutputSet" name="outputSets">
+    <collection name="histogramCharts"/>
+    <attribute type="giString" name="name" value="default"/>
+    <collection name="outputs">
+     <object version="1" type="saOutput" name="outputs">
+      <attribute type="giString" name="analyses" value="tran"/>
+      <attribute type="giString" name="description" value=""/>
+      <attribute type="giString" name="expr" value="v(/A&lt;0:31>)"/>
+      <attribute type="giString" name="goalExpression" value=" None "/>
+      <attribute type="giBoolean" name="hasSpec" value="0"/>
+      <attribute type="giString" name="imageTitle" value="%e %c %s %m %t"/>
+      <attribute type="giString" name="name" value="A"/>
+      <attribute type="enOutputType" name="outputType" value="net"/>
+      <attribute type="giBoolean" name="plot" value="1"/>
+      <attribute type="enGraphType" name="plotType" value="auto"/>
+      <attribute type="giInt" name="precision" value="6"/>
+      <attribute type="giString" name="probe" value=""/>
+      <attribute type="giBoolean" name="resultsViewer" value="1"/>
+      <attribute type="giBoolean" name="save" value="1"/>
+      <attribute type="giBoolean" name="saveImage" value="0"/>
+      <collection name="specs">
+       <object version="1" type="saSpecification" name="specs">
+        <attribute type="giString" name="analysis" value=""/>
+        <attribute type="giBoolean" name="enabled" value="1"/>
+        <attribute type="enGoalType" name="extGoalType" value="Greater Than"/>
+        <attribute type="giString" name="goal" value=""/>
+        <attribute type="giString" name="goalHigh" value=""/>
+        <attribute type="giString" name="goalLow" value=""/>
+        <attribute type="enGoalType" name="goalType" value="Greater Than"/>
+        <attribute type="giString" name="poor" value="0%"/>
+        <attribute type="giString" name="poorHigh" value="0%"/>
+        <attribute type="giString" name="poorLow" value="0%"/>
+       </object>
+      </collection>
+      <attribute type="giString" name="suffix" value=""/>
+      <attribute type="giString" name="units" value=""/>
+     </object>
+     <object version="1" type="saOutput" name="outputs">
+      <attribute type="giString" name="analyses" value="tran"/>
+      <attribute type="giString" name="description" value=""/>
+      <attribute type="giString" name="expr" value="v(/B&lt;0:31>)"/>
+      <attribute type="giString" name="goalExpression" value=" None "/>
+      <attribute type="giBoolean" name="hasSpec" value="0"/>
+      <attribute type="giString" name="imageTitle" value="%e %c %s %m %t"/>
+      <attribute type="giString" name="name" value="B"/>
+      <attribute type="enOutputType" name="outputType" value="net"/>
+      <attribute type="giBoolean" name="plot" value="1"/>
+      <attribute type="enGraphType" name="plotType" value="auto"/>
+      <attribute type="giInt" name="precision" value="6"/>
+      <attribute type="giString" name="probe" value=""/>
+      <attribute type="giBoolean" name="resultsViewer" value="1"/>
+      <attribute type="giBoolean" name="save" value="1"/>
+      <attribute type="giBoolean" name="saveImage" value="0"/>
+      <collection name="specs">
+       <object version="1" type="saSpecification" name="specs">
+        <attribute type="giString" name="analysis" value=""/>
+        <attribute type="giBoolean" name="enabled" value="1"/>
+        <attribute type="enGoalType" name="extGoalType" value="Greater Than"/>
+        <attribute type="giString" name="goal" value=""/>
+        <attribute type="giString" name="goalHigh" value=""/>
+        <attribute type="giString" name="goalLow" value=""/>
+        <attribute type="enGoalType" name="goalType" value="Greater Than"/>
+        <attribute type="giString" name="poor" value="0%"/>
+        <attribute type="giString" name="poorHigh" value="0%"/>
+        <attribute type="giString" name="poorLow" value="0%"/>
+       </object>
+      </collection>
+      <attribute type="giString" name="suffix" value=""/>
+      <attribute type="giString" name="units" value=""/>
+     </object>
+     <object version="1" type="saOutput" name="outputs">
+      <attribute type="giString" name="analyses" value="tran"/>
+      <attribute type="giString" name="description" value=""/>
+      <attribute type="giString" name="expr" value="v(/net12)"/>
+      <attribute type="giString" name="goalExpression" value=" None "/>
+      <attribute type="giBoolean" name="hasSpec" value="0"/>
+      <attribute type="giString" name="imageTitle" value="%e %c %s %m %t"/>
+      <attribute type="giString" name="name" value="Cin"/>
+      <attribute type="enOutputType" name="outputType" value="net"/>
+      <attribute type="giBoolean" name="plot" value="1"/>
+      <attribute type="enGraphType" name="plotType" value="auto"/>
+      <attribute type="giInt" name="precision" value="6"/>
+      <attribute type="giString" name="probe" value=""/>
+      <attribute type="giBoolean" name="resultsViewer" value="1"/>
+      <attribute type="giBoolean" name="save" value="1"/>
+      <attribute type="giBoolean" name="saveImage" value="0"/>
+      <collection name="specs">
+       <object version="1" type="saSpecification" name="specs">
+        <attribute type="giString" name="analysis" value=""/>
+        <attribute type="giBoolean" name="enabled" value="1"/>
+        <attribute type="enGoalType" name="extGoalType" value="Greater Than"/>
+        <attribute type="giString" name="goal" value=""/>
+        <attribute type="giString" name="goalHigh" value=""/>
+        <attribute type="giString" name="goalLow" value=""/>
+        <attribute type="enGoalType" name="goalType" value="Greater Than"/>
+        <attribute type="giString" name="poor" value="0%"/>
+        <attribute type="giString" name="poorHigh" value="0%"/>
+        <attribute type="giString" name="poorLow" value="0%"/>
+       </object>
+      </collection>
+      <attribute type="giString" name="suffix" value=""/>
+      <attribute type="giString" name="units" value=""/>
+     </object>
+     <object version="1" type="saOutput" name="outputs">
+      <attribute type="giString" name="analyses" value="tran"/>
+      <attribute type="giString" name="description" value=""/>
+      <attribute type="giString" name="expr" value="v(/Cout)"/>
+      <attribute type="giString" name="goalExpression" value=" None "/>
+      <attribute type="giBoolean" name="hasSpec" value="0"/>
+      <attribute type="giString" name="imageTitle" value="%e %c %s %m %t"/>
+      <attribute type="giString" name="name" value="Cout"/>
+      <attribute type="enOutputType" name="outputType" value="net"/>
+      <attribute type="giBoolean" name="plot" value="1"/>
+      <attribute type="enGraphType" name="plotType" value="auto"/>
+      <attribute type="giInt" name="precision" value="6"/>
+      <attribute type="giString" name="probe" value=""/>
+      <attribute type="giBoolean" name="resultsViewer" value="1"/>
+      <attribute type="giBoolean" name="save" value="1"/>
+      <attribute type="giBoolean" name="saveImage" value="0"/>
+      <collection name="specs">
+       <object version="1" type="saSpecification" name="specs">
+        <attribute type="giString" name="analysis" value=""/>
+        <attribute type="giBoolean" name="enabled" value="1"/>
+        <attribute type="enGoalType" name="extGoalType" value="Greater Than"/>
+        <attribute type="giString" name="goal" value=""/>
+        <attribute type="giString" name="goalHigh" value=""/>
+        <attribute type="giString" name="goalLow" value=""/>
+        <attribute type="enGoalType" name="goalType" value="Greater Than"/>
+        <attribute type="giString" name="poor" value="0%"/>
+        <attribute type="giString" name="poorHigh" value="0%"/>
+        <attribute type="giString" name="poorLow" value="0%"/>
+       </object>
+      </collection>
+      <attribute type="giString" name="suffix" value=""/>
+      <attribute type="giString" name="units" value=""/>
+     </object>
+     <object version="1" type="saOutput" name="outputs">
+      <attribute type="giString" name="analyses" value="tran"/>
+      <attribute type="giString" name="description" value=""/>
+      <attribute type="giString" name="expr" value="v(/S&lt;0:31>)"/>
+      <attribute type="giString" name="goalExpression" value=" None "/>
+      <attribute type="giBoolean" name="hasSpec" value="0"/>
+      <attribute type="giString" name="imageTitle" value="%e %c %s %m %t"/>
+      <attribute type="giString" name="name" value="S"/>
+      <attribute type="enOutputType" name="outputType" value="net"/>
+      <attribute type="giBoolean" name="plot" value="1"/>
+      <attribute type="enGraphType" name="plotType" value="auto"/>
+      <attribute type="giInt" name="precision" value="6"/>
+      <attribute type="giString" name="probe" value=""/>
+      <attribute type="giBoolean" name="resultsViewer" value="1"/>
+      <attribute type="giBoolean" name="save" value="1"/>
+      <attribute type="giBoolean" name="saveImage" value="0"/>
+      <collection name="specs">
+       <object version="1" type="saSpecification" name="specs">
+        <attribute type="giString" name="analysis" value=""/>
+        <attribute type="giBoolean" name="enabled" value="1"/>
+        <attribute type="enGoalType" name="extGoalType" value="Greater Than"/>
+        <attribute type="giString" name="goal" value=""/>
+        <attribute type="giString" name="goalHigh" value=""/>
+        <attribute type="giString" name="goalLow" value=""/>
+        <attribute type="enGoalType" name="goalType" value="Greater Than"/>
+        <attribute type="giString" name="poor" value="0%"/>
+        <attribute type="giString" name="poorHigh" value="0%"/>
+        <attribute type="giString" name="poorLow" value="0%"/>
+       </object>
+      </collection>
+      <attribute type="giString" name="suffix" value=""/>
+      <attribute type="giString" name="units" value=""/>
+     </object>
+    </collection>
+    <collection name="qqCharts"/>
+    <attribute type="giString" name="reductionString" value=""/>
+    <collection name="scatterCharts"/>
+   </object>
+  </collection>
+  <attribute type="giString" name="plotMode" value="replace"/>
+ </object>
+</file-format>
